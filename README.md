@@ -1,6 +1,6 @@
 # stochastic-thermodynamics
 
-This code creates the figures in the paper Stochastic Thermodynamics of Energy Based Models.
+This code creates the figures in the paper Minimal Dissipation Learning for Energy Based Models.
 
 ## How to install
 
