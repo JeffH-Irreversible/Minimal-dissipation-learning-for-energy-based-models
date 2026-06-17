@@ -1,0 +1,5 @@
+joypy==0.2.6
+matplotlib
+pandas
+numpy
+tqdm
